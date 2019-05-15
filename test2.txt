@@ -1,0 +1,6 @@
+test2 edited..
+add
+what to do
+git add test2.txt
+
+test editor
